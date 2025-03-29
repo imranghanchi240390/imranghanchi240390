@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imranghanchi240390
-- 👀 I’m interested in get work f
+- 👀 I’m interested in get work 
 - 🌱 I’m currently learning HTML, CSS, JS, CHATBOT
 - 💞️ I’m looking to collaborate on front end developers
 - 📫 How to reach me +918690058390
